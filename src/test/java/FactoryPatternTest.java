@@ -1,7 +1,7 @@
 import FactoryPattern.CarFactory;
 import FactoryPattern.Factory;
-import elements.product.AbstractProduct;
-import elements.product.Car;
+import FactoryPattern.AbstractProduct;
+import FactoryPattern.Car;
 import org.junit.Assert;
 import org.junit.Test;
 

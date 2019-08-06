@@ -2,10 +2,6 @@ import AbstractFactoryPattern.AbstractRefrigerator;
 import AbstractFactoryPattern.ApplianceFactory;
 import AbstractFactoryPattern.TclFactory;
 import AbstractFactoryPattern.TclRefrigerator;
-import FactoryPattern.CarFactory;
-import FactoryPattern.Factory;
-import elements.product.AbstractProduct;
-import elements.product.Car;
 import org.junit.Assert;
 import org.junit.Test;
 

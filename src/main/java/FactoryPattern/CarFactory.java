@@ -1,8 +1,5 @@
 package FactoryPattern;
 
-import elements.product.AbstractProduct;
-import elements.product.Car;
-
 /**
  * Class Description
  *

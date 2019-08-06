@@ -1,4 +1,4 @@
-package elements.product;
+package FactoryPattern;
 
 /**
  * Class Description

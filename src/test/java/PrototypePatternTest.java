@@ -1,8 +1,4 @@
-import FactoryPattern.CarFactory;
-import FactoryPattern.Factory;
 import PrototypePattern.Prototype;
-import elements.product.AbstractProduct;
-import elements.product.Car;
 import org.junit.Assert;
 import org.junit.Test;
 
