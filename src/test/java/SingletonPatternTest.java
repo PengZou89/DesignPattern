@@ -1,4 +1,3 @@
-import SingletonPattern.SingletonPattern;
 import org.junit.Assert;
 import org.junit.Test;
 
