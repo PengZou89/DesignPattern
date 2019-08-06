@@ -5,9 +5,6 @@ import elements.product.Car;
 import org.junit.Assert;
 import org.junit.Test;
 
-import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.atomic.AtomicInteger;
-
 /**
  * Class Description
  *
