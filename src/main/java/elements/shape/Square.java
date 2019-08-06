@@ -5,7 +5,7 @@ package elements.shape;
  *
  * @author zoup
  */
-public class Square implements Shape{
+public class Square extends Shape{
     @Override
     public void draw() {
         System.out.println("Draw a square!");
